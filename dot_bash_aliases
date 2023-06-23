@@ -1,0 +1,10 @@
+alias deckupdater="cd ~/Projects/steamdeck-package-reinstaller/ && nvim updater.sh; cd" 
+alias bashrc="nvim ~/.bashrc && source ~/.bashrc"
+alias balias="nvim ~/.bash_aliases && source ~/.bash_aliases"
+alias kittyrc="cd ~/.config/kitty/ && nvim kitty.conf; cd "
+
+alias nvim="~/Applications/nvim.appimage"
+alias nvimrc="cd ~/.config/nvim/lua/custom/ && nvim; cd"
+
+# TODO make nvim project helper func with cool auto complete
+
